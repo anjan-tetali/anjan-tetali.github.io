@@ -325,7 +325,20 @@ progress {
 [type=number]::-webkit-outer-spin-button {
   height: auto;
 }
+.featurette {
+    font-size: 0.8rem;
+    line-height: 1.5;
+    color: #555;
+    text-align: center;
+}
 
+.featurette-icon {
+    display: block;
+    width: 100%;
+    color: #bd5d38;
+    font-size: 3rem;
+    text-align: center;
+}
 [type=search] {
   outline-offset: -2px;
   -webkit-appearance: none;
@@ -10141,7 +10154,7 @@ section.resume-section .resume-section-content {
 }
 
 /*testing*/
-.featurette {
+/* .featurette {
     font-size: 0.8rem;
     line-height: 1.5;
     color: #555;
@@ -10154,7 +10167,7 @@ section.resume-section .resume-section-content {
     color: #bd5d38;
     font-size: 3rem;
     text-align: center;
-}
+} */
 /*
 .featurette h3 {
     margin-top: 0;
